@@ -1,0 +1,30 @@
+/**********************TAG SELECTORS**************************/
+h1 {
+  font-size: 100px;
+  color: green;
+}
+
+img:hover {
+  background-color: gold;
+  height: 150px;
+
+}
+
+
+/**********************CLASS SELECTORS**************************/
+.leafygreen {
+  background-color: green;
+}
+.redmeat {
+  background-color: red;
+}
+.circular {
+  border-radius: 100%;
+}
+/**********************ID SELECTORS**************************/
+#heading {
+  color: purple;
+}
+#firstparagraph {
+  color: green;
+}
